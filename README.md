@@ -2,6 +2,10 @@
 
 The last drop is a 2D tetris-like game developed as a second semester solo project.
 
+# Gameplay preview (Click on image)
+
+[![Gameplay Video](Backgrounds/mq3.webp)](https://youtu.be/ZJvTlS2WGrk)
+
  # Tech Stack
  
 - C++
